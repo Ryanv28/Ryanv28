@@ -1,10 +1,10 @@
 {   
 	"Version": "1.00",
-	"FileList":"http://168.194.43.150/Update/filelist.json",
-	"DownloadUpdate": "http://168.194.43.150/ClientGame/",		
+	"FileList":"http://189.46.228.170:30210/filelist.json",
+	"DownloadUpdate": "http://189.46.228.170:30210/clienteUnitez/",		
 	"News": [
-		"https://spard2.github.io/dayzupdate/News/0.png",
-		"https://spard2.github.io/dayzupdate/News/1.png",
-		"https://spard2.github.io/dayzupdate/News/2.png"
+		"https://ryanv28.github.io/Ryanv28/News/0.png",
+		"https://ryanv28.github.io/Ryanv28/News/1.png",
+		"https://ryanv28.github.io/Ryanv28/News/2.png"
 	]			
 }
