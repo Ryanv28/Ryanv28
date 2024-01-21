@@ -1,5 +1,5 @@
 {   
-	"Version": "1.04",
+	"Version": "1.05",
 	"FileList":"http://189.46.228.170:30210/filelist.json",
 	"DownloadUpdate": "http://189.46.228.170:30210/clienteUnitez/",		
 	"News": [
