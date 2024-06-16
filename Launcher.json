@@ -1,7 +1,7 @@
 {   
 	"Version": "1.05",
-	"FileList":"http://189.46.228.170:30210/filelist.json",
-	"DownloadUpdate": "http://189.46.228.170:30210/clienteUnitez/",		
+	"FileList":"http://189.46.228.170:33102/filelist.json",
+	"DownloadUpdate": "http://189.46.228.170:33102/clienteUnitez/",		
 	"News": [
 		"https://ryanv28.github.io/Ryanv28/News/0.png",
 		"https://ryanv28.github.io/Ryanv28/News/1.png",
