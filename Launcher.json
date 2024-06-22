@@ -1,7 +1,7 @@
 {   
 	"Version": "1.05",
-	"FileList":"http://189.46.228.170:33103/filelist.json",
-	"DownloadUpdate": "http://189.46.228.170:33103/cliente/",		
+	"FileList":"http://189.46.228.170:33198/filelist.json",
+	"DownloadUpdate": "http://189.46.228.170:33198/DayzUnited/",		
 	"News": [
 		"https://ryanv28.github.io/Ryanv28/News/0.png",
 		"https://ryanv28.github.io/Ryanv28/News/1.png",
